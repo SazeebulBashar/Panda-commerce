@@ -1,2 +1,3 @@
 # Panda-commerce
-For Practice
+This is a simple e-commerce static homepage. 
+It's just a practice.
